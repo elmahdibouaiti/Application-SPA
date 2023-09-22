@@ -53,4 +53,4 @@
 * Bootstrap-V5.2
 
 ## License
-**Copyright @ 2022 Web_Pos_System All Right Reserved By Ishara Maduranga**
+**Copyright @ 2022 Web_Pos_System All Right Reserved By El Mahdi Bouaiti**
